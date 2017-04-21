@@ -29,5 +29,11 @@
   },
   "homepage": "https://github.com/brusand/node-red-node-liveobjects#readme",
   "dependencies": {
+    "https": "^1.0.0",
+    "https-proxy-agent": "^1.0.0",
+    "isutf8": "^2.0.1",
+    "mqtt": "^2.6.2",
+    "url": "^0.11.0",
+    "util": "^0.10.3"
   }
 }

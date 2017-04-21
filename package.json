@@ -19,6 +19,7 @@
   "node-red": {
     "nodes": {
       "lo-mqtt": "lo-mqtt.js",
+      "lo-api": "lo-api.js",
       "lo-rest-api": "lo-rest-api.js"
     }
   },

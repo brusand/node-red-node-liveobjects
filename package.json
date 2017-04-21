@@ -19,7 +19,7 @@
   "node-red": {
     "nodes": {
       "lo-mqtt": "lo-mqtt.js",
-      "lo-rest": "lo-rest-api.js"
+      "lo-rest-api": "lo-rest-api.js"
     }
   },
   "author": "Bruno Darrigues",

@@ -131,7 +131,7 @@ module.exports = function (RED) {
     });
   }
 
-  RED.nodes.registerType("lo-api", HTTPSRequest, {
+  RED.nodes.registerType("lo-auth", HTTPSRequest, {
     credentials: {
       login: {
         type: "text"
